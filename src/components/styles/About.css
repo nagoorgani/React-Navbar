@@ -1,0 +1,22 @@
+.About {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 40px;
+    color: white;
+  }
+  
+  .content {
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.5;
+    color: white;
+  }
+  
+  p {
+    margin-bottom: 20px;
+  }
+  
